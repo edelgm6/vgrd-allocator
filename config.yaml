@@ -1,0 +1,24 @@
+categories:
+  US:
+    - VTSAX
+    - SWPPX
+    - SWTSX
+    - VTI
+    - SCHB
+    - SCHA
+    - SCHG
+    - SCHV
+    - SCHD
+    - VIG
+    - VDE
+  International:
+    - VTIAX
+    - SWISX
+    - VEA
+    - VWO
+    - VXUS
+    - SCHF
+    - IEMG
+target_allocation:
+  US: 0.8
+  International: 0.2
